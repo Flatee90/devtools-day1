@@ -18,11 +18,11 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 #### Problem 1:
 
-- Description: [Your explanation here]
+- Description: [The meta description is missing]
 
 #### Problem 2:
 
-- Description: [Your explanation here]
+- Description: [The page is blocked from indexing]
 
 [Continue with the remaining problems]
 
@@ -32,17 +32,20 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 #### Problem 1:
 
-- Solution: [Your proposed solution here]
+- Solution: [The meta description is missing]
 
 #### Problem 2:
 
-- Solution: [Your proposed solution here]
+- Solution: []
 
 [Continue with solutions for the remaining problems]
 
 ### Step 4: Reflect
 
 After completing the exercise, write a brief reflection on what you learned from this debugging and optimization process. Discuss any new insights you gained and how you might apply these skills in future projects.
+
+#### Reflection:
+
 
 ## Submission
 
@@ -51,3 +54,4 @@ Submit this README.md file with all the problems documented and solved, along wi
 ---
 
 This exercise is an opportunity to practice critical web development skills. Pay close attention to detail and think about how each issue affects the overall performance and user experience of the web application.
+ 
