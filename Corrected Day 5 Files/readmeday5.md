@@ -42,6 +42,25 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 - Solution: [for page execution, we want our script first. There is also use tracking in the cdn script because of use of those elements.]
 
+#### Problem 6 :
+
+- Solution: []
+
+#### Problem 7 :
+
+- Solution []
+
+#### Problem 8 :
+
+- Solution []
+
+#### Problem 9 :
+
+- Solution []
+
+#### Problem 10 :
+
+- Solution []
 [Continue with solutions for the remaining problems]
 
 ### Step 4: Reflect
