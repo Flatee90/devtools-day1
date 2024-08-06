@@ -18,11 +18,11 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 #### Problem 1:
 
-- Description: [The meta description is missing]
+- Description: [The meta data is missing]
 
 #### Problem 2:
 
-- Description: [The page is blocked from indexing]
+- Description: [CSS call link is outside of the head and unnecessary / in tags]
 
 [Continue with the remaining problems]
 
@@ -30,13 +30,17 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 For each identified problem, propose a solution or an optimization strategy. Briefly describe how you would fix the issue.
 
-#### Problem 1:
+#### Problem 3:
 
-- Solution: [The meta description is missing]
+- Solution: [Class in internal styling isn't assigned to a specific element.]
 
-#### Problem 2:
+#### Problem 4:
 
-- Solution: []
+- Solution: [Image is too big for ARIA compliance and has a / at the end of the tag]
+
+#### problem 5 :
+
+- Solution: [for page execution, we want our script first. There is also use tracking in the cdn script because of use of those elements.]
 
 [Continue with solutions for the remaining problems]
 
