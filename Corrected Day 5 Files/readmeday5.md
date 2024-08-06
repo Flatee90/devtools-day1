@@ -26,21 +26,52 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 [Continue with the remaining problems]
 
+#### Problem 3:
+
+- Description: [Class in internal styling isn't assigned to a specific element.]
+
+#### Problem 4:
+
+- Description: [Image is too big for ARIA compliance and has a / at the end of the tag]
+
+#### problem 5 :
+
+- Description: [for page execution, we want our script first. There is also use tracking in the cdn script because of use of those elements.]
+
+#### Problem 6 :
+
+- Description: [CSS style !Important isn't needed]
+
+#### Problem 7 :
+
+- Description [Image size isn't compliant with ARIA.]
+
+#### Problem 8 :
+
+- Description []
+
+#### Problem 9 :
+
+- Description []
+
+#### Problem 10 :
+
+- Description []
 ### Step 3: Propose Solutions
 
 For each identified problem, propose a solution or an optimization strategy. Briefly describe how you would fix the issue.
 
 #### Problem 3:
 
-- Solution: [Class in internal styling isn't assigned to a specific element.]
+- Solution: []
 
 #### Problem 4:
 
-- Solution: [Image is too big for ARIA compliance and has a / at the end of the tag]
+- Solution: []
 
 #### problem 5 :
 
-- Solution: [for page execution, we want our script first. There is also use tracking in the cdn script because of use of those elements.]
+- Solution: []
 
 #### Problem 6 :
 
