@@ -71,35 +71,35 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 #### Problem 3:
 
-- Solution: []
+- Solution: [Changes internal styling class to match and existing class id in html.]
 
 #### Problem 4:
 
-- Solution: []
+- Solution: [Removed / and resized image]
 
 #### problem 5 :
 
-- Solution: []
+- Solution: [changed the position of the script links to allow the external file to be called before the cdn linked version. left the tracker codes in the link for the cdn]
 
 #### Problem 6 :
 
-- Solution: []
+- Solution: [Removed !Important as it is know longer required]
 
 #### Problem 7 :
 
-- Solution []
+- Solution [Resized it to comply with the standard]
 
 #### Problem 8 :
 
-- Solution []
+- Solution [Removed unused script from style sheet]
 
 #### Problem 9 :
 
-- Solution []
+- Solution [No problems or erros]
 
 #### Problem 10 :
 
-- Solution []
+- Solution [No erros]
 [Continue with solutions for the remaining problems]
 
 ### Step 4: Reflect
@@ -107,6 +107,7 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 After completing the exercise, write a brief reflection on what you learned from this debugging and optimization process. Discuss any new insights you gained and how you might apply these skills in future projects.
 
 #### Reflection:
+I've learned to slow down and really look for erros. I also learned how to truly use the diffrent compartments of Devtools. Now I know what to look for and where to go when my codes are not working.
 
 
 ## Submission
