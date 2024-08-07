@@ -48,18 +48,26 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 #### Problem 8 :
 
-- Description []
+- Description [Unused or assigned style script]
 
 #### Problem 9 :
 
-- Description []
+- Description [n/a problem not marked nor showing in dev tools]
 
 #### Problem 10 :
 
-- Description []
+- Description [Missing a paragraph for the output of the equation within the html]
 ### Step 3: Propose Solutions
 
 For each identified problem, propose a solution or an optimization strategy. Briefly describe how you would fix the issue.
+
+#### Problem 1 :
+
+- Solution : [Added meta data to page]
+
+#### Problem 2 :
+
+- Solution : [Moved CSS style link to head and removed / from all instances in head tags where they shouldn't be.]
 
 #### Problem 3:
 
